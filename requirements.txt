@@ -1,0 +1,8 @@
+* k8s cluster eks     V
+* nodes groups        V
+* 2 avalibly zone     V
+* helm chart          V
+* deploy elb + ingress controller, with failover, 
+* doker registry
+* with terraform. k86 ipv6, 
+* calicko 
