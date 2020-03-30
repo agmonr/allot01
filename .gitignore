@@ -5,6 +5,7 @@
 *.tfstate
 *.tfstate.*
 *.swp
+deploy/helloworld.yaml
 
 # Crash log files
 crash.log
